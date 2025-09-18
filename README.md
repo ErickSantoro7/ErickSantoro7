@@ -3,11 +3,11 @@
 - 💻 Hoje trabalho com Dados
 - 📚 Estudando Python e SQL 
 - 💼 Contrate-me no email: ericksantoro2005@gmail.com
-- 📫 How to reach me: www.linkedin.com/in/erick-santoro-446905358
+- 📫 How to reach me: www.linkedin.com/in/erick-santoro-446905358 
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Estou Cursando Análise e Desenvolvimento de Sistemas
 
- # 👩🏻‍💻 Erick Santoro
+ # 👨🏻‍💻 Erick Santoro
 
 **`Analista de Dados Júnior | Programador Júnior`**
 
@@ -44,6 +44,8 @@ Me chamo Erick Martins Santoro, tenho 20 anos e sou natural do Rio de Janeiro. C
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+          
 <br/>
 <br/>
 
