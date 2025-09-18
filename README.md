@@ -50,10 +50,10 @@ Me chamo Erick Martins Santoro, tenho 20 anos e sou natural do Rio de Janeiro. C
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-
-          
-   <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+   />
+         
+<img 
     align="left" 
     alt="Django" 
     title="Django"
@@ -118,8 +118,6 @@ Me chamo Erick Martins Santoro, tenho 20 anos e sou natural do Rio de Janeiro. C
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickSantoro7&show_icons=true)
-
 <p>
   <img 
     align="left" 
@@ -135,5 +133,7 @@ Me chamo Erick Martins Santoro, tenho 20 anos e sou natural do Rio de Janeiro. C
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSantoro7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+</p>
 
 
